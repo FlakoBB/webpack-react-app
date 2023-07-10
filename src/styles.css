@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: #444;
+}
+
+.container {
+	border: 2px solid #f09;
+	color: #f09;
+	font-size: 3rem;
+	font-weight: bold;
+	padding: 4rem;
+}
